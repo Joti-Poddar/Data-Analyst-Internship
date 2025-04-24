@@ -1,1 +1,1 @@
-# Data-Analyst-Internship
+I have taken the data from chat gpt and learn from diffrent resource how to transform data, create measures, create columns, create table and dashbord using DAX. I have tried to implement them all in my dashboard.
